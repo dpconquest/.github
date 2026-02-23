@@ -1,8 +1,6 @@
-# DP Conquest
-
 <p align="center">
   <a href="https://dpconquest.eu">
-    <img src="https://dpconquest.eu/assets/logo-nobg.png" alt="DP Conquest" width="400" />
+    <img src=".github/profile/logo-nobg.png" alt="DP Conquest" width="400" />
   </a>
 </p>
 
